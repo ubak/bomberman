@@ -4,7 +4,7 @@ var Map = function(){
     var layer = null;
         
     this.getPhysicsReference = function() {
-        return map;  
+        return layer;  
     };
     
     
